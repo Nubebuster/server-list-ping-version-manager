@@ -1,0 +1,4 @@
+name: ServerListPingProtocolHandler
+main: me.cockram.mark.slpph.ServerListPingProtocolHandler
+version: 1.0
+author: NubeBuster

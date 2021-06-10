@@ -1,0 +1,5 @@
+# for reference to protocol numbers see https://wiki.vg/Protocol_version_numbers
+mimimumprotocol: 754
+maximumprotocol: 755
+recommendedprotocol: 755
+supportedversions: '1.16.x, 1.17.x'
