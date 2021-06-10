@@ -13,13 +13,13 @@ When server list websites such as planetminecraft ping your server they set thei
 
 # Config
 
-Code (YAML):
-# for reference to protocol numbers see https://wiki.vg/Protocol_version_numbers
-mimimumprotocol: 754
-maximumprotocol: 755
-# this is the protocol version that is sent to server list websites
-recommendedprotocol: 755
-supportedversions: '1.16.x, 1.17.x'
+Code (YAML):<br>
+\#for reference to protocol numbers see https://wiki.vg/Protocol_version_numbers<br>
+mimimumprotocol: 754<br>
+maximumprotocol: 755<br>
+\# this is the protocol version that is sent to server list websites<br>
+recommendedprotocol: 755<br>
+supportedversions: '1.16.x, 1.17.x'<br>
 
 # Spigot release
 https://www.spigotmc.org/resources/serverlistping-protocol-handler.93148/
